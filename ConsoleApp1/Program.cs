@@ -24,7 +24,7 @@ namespace ConsoleApp1
     {
         public new void i()
         {
-            Console.WriteLine("Rebt");
+          
         }
     }
 
